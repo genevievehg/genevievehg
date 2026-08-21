@@ -60,7 +60,7 @@ My background in scientific research has given me a strong foundation in analyti
 
 ## 📫 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn](https://www.linkedin.com/in/genevievegarwood/)
 
 <!--
 **genevievehg/genevievehg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
