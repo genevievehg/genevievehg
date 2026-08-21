@@ -18,6 +18,7 @@ I'm a data engineer with a background in analytical chemistry and scientific res
 ## 📌 Featured Projects
 
 ### 🚀 AWS Data Engineering Pipeline
+[aws-data-engineering-pipeline](https://github.com/genevievehg/aws-data-engineering-pipeline)
 
 An end-to-end data engineering pipeline built with Python, PostgreSQL and AWS, originally developed as a collaborative project during the Northcoders Data Engineering Bootcamp.
 
