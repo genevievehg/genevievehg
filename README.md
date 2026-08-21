@@ -1,4 +1,4 @@
-## Hi, I'm Gen 👋
+## Hi, I'm Gen 🌞
 
 ### Data Engineer | Data Analyst
 
