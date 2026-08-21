@@ -17,6 +17,20 @@ I'm a data engineer with a background in analytical chemistry and scientific res
 
 ## 📌 Featured Projects
 
+### 🚀 AWS Data Engineering Pipeline
+
+An end-to-end data engineering pipeline built with Python, PostgreSQL and AWS, originally developed as a collaborative project during the Northcoders Data Engineering Bootcamp.
+
+* Developed data ingestion and transformation processes using Python and Pandas
+* Built data pipelines using AWS S3, Lambda and Step Functions
+* Stored raw and processed data as Parquet files in S3
+* Designed and implemented a star-schema data warehouse in PostgreSQL
+* Used Terraform to provision and manage AWS infrastructure
+* Implemented automated testing using pytest
+* Added CloudWatch monitoring and SNS notifications for pipeline errors
+
+This project gave me practical experience of building a cloud-based data pipeline, from data ingestion and transformation through to data modelling, orchestration, infrastructure and monitoring. I am continuing to develop the project independently, extending and documenting the components I contributed to as part of the original group project.
+
 ### 🎫 Plus One — REST API & AWS Deployment
 
 [plus-one-db-project](https://github.com/genevievehg/plus-one-db-project)
