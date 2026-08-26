@@ -2,7 +2,7 @@
 
 ### Data Engineer | Data Analyst
 
-I'm a data engineer with a background in analytical chemistry and scientific research, currently developing my skills across data engineering, cloud technologies and machine learning.
+I'm a data engineer with a background in analytical chemistry and scientific research, currently developing my skills across data engineering, cloud technologies and machine learning. I made it here after realising that what I am truly passionate about in science is the data – and using it to gain insights and make decisions. I found along the way that I also love programming! I'm excited to explore more data visualisation tools – recommendations welcome!
 
 ## 🛠️ Technical Skills
 
@@ -58,15 +58,9 @@ An NLP project combining emotion classification, semantic search and generative 
 * Context retrieval using RAG
 * LLM-generated responses using TinyLlama
 
-## 🎓 Background
-
-* **Data Engineering, AI & Machine Learning Bootcamp — Northcoders**
-* **PhD in Analytical Chemistry — University of Nottingham**
-
-My background in scientific research has given me a strong foundation in analytical thinking, problem-solving and working with complex data. I'm now applying those skills to data engineering and machine learning.
-
 ## 🌱 Currently Learning
 
+* More of everything!
 * Data engineering and cloud architecture
 * AWS
 * Data pipelines and ETL
