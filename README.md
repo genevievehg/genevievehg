@@ -4,6 +4,8 @@
 
 I'm a data engineer with a background in analytical chemistry and scientific research, currently developing my skills across data engineering, cloud technologies and machine learning. I made it here after realising that what I am truly passionate about in science is the data – and using it to gain insights and make decisions. I found along the way that I also love programming! I'm excited to explore more data visualisation tools – recommendations welcome!
 
+#### 🔭 Currently working on an ELT pipeline to analyse my Spotify data to prove once and for all I was listening to Olivia Dean years before everyone else 🎶
+
 ## 🛠️ Technical Skills
 
 * **Programming:** Python
