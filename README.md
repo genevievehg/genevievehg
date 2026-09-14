@@ -6,16 +6,7 @@ I'm a data engineer with a background in analytical chemistry and scientific res
 
 #### 🔭 Currently working on an ELT pipeline to analyse my Spotify data to prove once and for all I was listening to Olivia Dean years before everyone else 🎶
 
-## 🛠️ Technical Skills
-
-* **Programming:** Python
-* **Data:** SQL, PostgreSQL, Pandas
-* **Data Engineering:** ETL/ELT, data modelling, data warehousing
-* **Cloud:** AWS (S3, Lambda, RDS, CloudWatch, Glue, Step Functions)
-* **DevOps:** Terraform, Git, GitHub Actions, CI/CD
-* **APIs:** FastAPI, REST APIs
-* **Testing:** pytest, TDD, integration testing
-* **AI & ML:** Machine Learning, NLP, embeddings, transformers, RAG
+---
 
 ## 📌 Featured Projects
 
