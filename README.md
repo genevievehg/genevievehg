@@ -5,6 +5,7 @@
 I'm a data engineer with a background in analytical chemistry and scientific research, currently developing my skills across data engineering and cloud technologies. I made it here after realising that what I am truly passionate about in science is the data – and using it to gain insights and make decisions. I found along the way that I also love programming! I'm excited to explore more data visualisation tools – recommendations welcome!
 
 * 🔭 Currently working on an ELT pipeline to analyse my Spotify data to prove once and for all I was listening to Olivia Dean years before everyone else 🎶
+ *Any tips for data enrichment considering the Spotify API's rate limits would be welcome!*
 
 ---
 
@@ -32,15 +33,9 @@ An NLP project combining emotion classification, semantic search and generative 
 ## 🌱 Currently Learning
 
 * More of everything!
-* Data engineering and cloud architecture
-* AWS
 * Data pipelines and ETL
-* Machine learning and NLP
-* Generative AI and RAG
+* Data visualisation
 
-## 📫 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/genevievegarwood/)
 
 <!--
 **genevievehg/genevievehg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
