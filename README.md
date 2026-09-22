@@ -2,7 +2,7 @@
 
 ### Data Engineer | Data Analyst
 
-I'm a data engineer with a background in analytical chemistry and scientific research, currently developing my skills across data engineering, cloud technologies and machine learning. I made it here after realising that what I am truly passionate about in science is the data – and using it to gain insights and make decisions. I found along the way that I also love programming! I'm excited to explore more data visualisation tools – recommendations welcome!
+I'm a data engineer with a background in analytical chemistry and scientific research, currently developing my skills across data engineering and cloud technologies. I made it here after realising that what I am truly passionate about in science is the data – and using it to gain insights and make decisions. I found along the way that I also love programming! I'm excited to explore more data visualisation tools – recommendations welcome!
 
 * 🔭 Currently working on an ELT pipeline to analyse my Spotify data to prove once and for all I was listening to Olivia Dean years before everyone else 🎶
 
@@ -15,41 +15,19 @@ I'm a data engineer with a background in analytical chemistry and scientific res
 
 An end-to-end data engineering pipeline built with Python, PostgreSQL and AWS, originally developed as a collaborative project during the Northcoders Data Engineering Bootcamp.
 
-* Developed data ingestion and transformation processes using Python and Pandas
-* Built data pipelines using AWS S3, Lambda and Step Functions
-* Stored raw and processed data as Parquet files in S3
-* Designed and implemented a star-schema data warehouse in PostgreSQL
-* Used Terraform to provision and manage AWS infrastructure
-* Implemented automated testing using pytest
-* Added CloudWatch monitoring and SNS notifications for pipeline errors
-
-This project gave me practical experience of building a cloud-based data pipeline, from data ingestion and transformation through to data modelling, orchestration, infrastructure and monitoring. I am continuing to develop the project independently, extending and documenting the components I contributed to as part of the original group project.
+Built cloud-based ingestion and transformation pipelines using S3, Lambda and Step Functions, with Parquet storage, a PostgreSQL star-schema warehouse, Terraform infrastructure, pytest testing, and CloudWatch/SNS monitoring. Continuing to develop and document the project independently.
 
 ### 🎫 Plus One — REST API & AWS Deployment
 
 [plus-one-db-project](https://github.com/genevievehg/plus-one-db-project)
 
-A backend application built with Python and FastAPI for managing users, events and RSVPs, backed by PostgreSQL.
-
-* Designed and developed a REST API with FastAPI
-* Built database functionality using PostgreSQL
-* Implemented secure user authentication and JWT-based authorisation
-* Added functionality for event organisers to manage events and view attendee statistics
-* Wrote automated tests using pytest
-* Used Terraform to provision AWS infrastructure
-
-This project gave me practical experience of building and deploying a backend application, from database design and API development through to cloud infrastructure.
+A backend application built with Python, FastAPI and PostgreSQL for managing users, events and RSVPs. Developed a REST API with JWT authentication, database functionality, automated testing with pytest, and AWS infrastructure provisioned with Terraform.
 
 ### 🤖 Emotion Classification & RAG Chatbot
 
 [ml-natural-language-classifier](https://github.com/genevievehg/ml-natural-language-classifier)
 
-An NLP project combining emotion classification, semantic search and generative AI.
-
-* Emotion classification using TF-IDF and Logistic Regression
-* Semantic search using Sentence Transformer embeddings
-* Context retrieval using RAG
-* LLM-generated responses using TinyLlama
+An NLP project combining emotion classification, semantic search and generative AI. Emotion classification achieved using TF-IDF and Logistic Regression,  semantic search implemented with Sentence Transformer embeddings, and RAG and TinyLlama used to retrieve context and generate responses.
 
 ## 🌱 Currently Learning
 
